@@ -35,3 +35,33 @@
 김승혜 : Chapter 4(팩토리 패턴)
 
 김보람 : Chapter 5(싱글턴 패턴)
+
+#### 4주차 - Chapter 6, Chapter 7
+
+황정목 : Chapter 6(커맨드 패턴)
+
+김승혜 : Chapter 7(어댑터 패턴과 퍼사드 패턴)
+
+#### 5주차 - Chapter 8, Chapter 9(반복자 패턴 ~384p 까지)
+
+최준석 : Chapter 8(템플릿 메소드 패턴)
+
+김보람 : Chapter 9(반복자 패턴)
+
+#### 6주차 - Chapter 9(컴포지트 패턴), Chapter 10
+
+황정목 : Chapter 9(컴포지트 패턴)
+
+김경미 : Chapter 10(상태 패턴)
+
+#### 7주차 - Chapter 11, Chapter 12
+
+최준석 : Chapter 11(프록시 패턴)
+
+김승혜 : Chapter 12(복합 패턴)
+
+#### 8주차 - Chapter 13, Chapter 14
+
+김보람 : Chapter 13(실전 디자인 패턴)
+
+황정목 : Chapter 14(기타 패턴턴)
